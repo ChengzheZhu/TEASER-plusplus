@@ -31,3 +31,6 @@ TAGS
 *.m~
 python/*.egg-info/
 /doc/_build/
+
+# Compiled Python extension (build output)
+*.so
